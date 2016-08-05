@@ -1,0 +1,42 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "51021391-8c58-417a-8db1-6bc3377b5d3d++6410",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "51021391-8c58-417a-8db1-6bc3377b5d3d++6410" : {
+
+    },
+    "51021391-8c58-417a-8db1-6bc3377b5d3d++4318" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B8C5B5C745F747C1280E3C73FCC3DF2B2348FBE0" : 0,
+    "51021391-8c58-417a-8db1-6bc3377b5d3d++6410" : 0,
+    "51021391-8c58-417a-8db1-6bc3377b5d3d++4318" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2A1884E3-F353-49B1-A649-2125B7CC0D9F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B8C5B5C745F747C1280E3C73FCC3DF2B2348FBE0" : "IOS\/HeaderViewTest\/HeaderViewTest\/",
+    "51021391-8c58-417a-8db1-6bc3377b5d3d++6410" : "IOS\/HeaderViewTest\/HeaderViewTest\/",
+    "51021391-8c58-417a-8db1-6bc3377b5d3d++4318" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HeaderViewTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HeaderViewTest\/HeaderViewTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/115.29.4.15\/dcnp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51021391-8c58-417a-8db1-6bc3377b5d3d++4318"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/115.29.4.15\/dcnp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51021391-8c58-417a-8db1-6bc3377b5d3d++6410"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tcxy\/HeaderViewTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B8C5B5C745F747C1280E3C73FCC3DF2B2348FBE0"
+    }
+  ]
+}
